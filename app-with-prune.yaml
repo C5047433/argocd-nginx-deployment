@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://bc0222bf80c684a66726cc890c3b20dd-3000.maxwell.assessments.scaler.com/john_doe/nginx-deployment.git
+    repoURL: https://github.com/C5047433/argocd-nginx-deployment.git
     path: applications
     targetRevision: HEAD
   destination:
